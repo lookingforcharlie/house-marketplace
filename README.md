@@ -1,19 +1,19 @@
-# Getting Started with Create React App
+# House Marketplace Application
 
-House Marketplace Application
+April 1st, 2022
 
 ## Description
 
 Mobile First Layout
+Register, authentication, login, OAuth using google account
+Upload, edit, delete property listings
+browser other's listings
 
 ### Tool Chain
 
 Firebase 9: backend, authentication
 FireStore: database
-We don't use context API or any kind of state manager, cos it's modular.
-Mobile first design.
 Google Geocoding: take address and get the latitude and longitude
-
-### Firebase Configuration
-
-https://gist.github.com/bradtraversy/caab8ebd8ff4b6e947632887e0183761
+Swiper React: create image slide
+Leaflet Map: add map in pages
+React Toastify: get warning on pages
